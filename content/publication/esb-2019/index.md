@@ -17,7 +17,7 @@ authors = ["Hélène Pillet", "François Bailly", "Bruno Watier"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted to European Society of Biomechanics"
+publication = "European Society of Biomechanics"
 publication_short = "ESB"
 
 # Abstract.
